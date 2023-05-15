@@ -1,0 +1,5 @@
+baseURL = 'https://www.ssoqw.me/'
+languageCode = 'en-us'
+title = 'SSoQw ~ Home'
+[[module.imports]]
+path = "github.com/willfaught/paige"
